@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 :movie_camera: gilmore girls
 :ring: chad murray
 :house: stars hollow
-:woman_student:USP-
 :books: 1984
 :family_woman_girl: afilhada da lana del rey
-doce
+:icecream:doce
